@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sect1{
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+body{
+    background-color: rgb(231, 172, 172);
+}
