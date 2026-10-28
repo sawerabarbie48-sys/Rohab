@@ -55,7 +55,7 @@ h1{
 #sectionimage{
     width: 60%;
     height: 400px;
-    box-shadow: inset; 
+    box-shadow: 10px 10px 10px gray; 
 }
 #box1{
 width: 20%;
